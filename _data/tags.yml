@@ -1,11 +1,16 @@
 tag1:
-  name: tag1
+  name: surveillance
 
 tag2:
-  name: tag2
+  name: programming
 
 tag3:
-  name: tag3
+  name: philosophy
 
 tag4:
-  name: tag4
+  name: unix
+
+tag5:
+  name: portage
+tag6:
+  name: inferno
